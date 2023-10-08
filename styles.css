@@ -1,0 +1,12 @@
+.container{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: 100px auto;
+}
+.chart{
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(white 40%, transparent 41%), conic-gradient(#ffe873 0% 10%, #ffb13b 10% 20%, #063e6b 20% 40%, #e34c26 40% 60%, #264de4 60% 80%, #83ff3b 80% 100%);
+    border-radius: 50%;
+}
